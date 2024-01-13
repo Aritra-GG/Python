@@ -1,0 +1,3 @@
+**READ ME**
+This is a test to check wether your web cam is selected or not. This does not take external info on the web or to our server and it's a promise!
+Please do not leak this project since it is under development.
